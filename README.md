@@ -8,7 +8,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/HunxByts/GhostTrack.git
+git clone https://github.com/vyasanbmathew5/Z-GhostTrack
 
 cd Z-GhostTrack-Main
 
