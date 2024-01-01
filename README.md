@@ -10,7 +10,7 @@ pkg install python3
 
 git clone https://github.com/vyasanbmathew5/Z-GhostTrack
 
-cd Z-GhostTrack-Main
+cd Z-GhostTrack
 
 pip3 install -r requirements.txt
 
