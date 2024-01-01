@@ -13,6 +13,8 @@ git clone https://github.com/vyasanbmathew5/Z-GhostTrack
 
 cd Z-GhostTrack
 
+chmod +x *
+
 pip3 install -r requirements.txt
 
 python GhostTR.py
